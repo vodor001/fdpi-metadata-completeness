@@ -1,4 +1,4 @@
-# fdp-metadata-completeness
+# fdpi-metadata-completeness
 Metadata Completeness check for FAIR Data Point index of ERDERA Virtual Platform 
 
 This R-script checks the completeness of DCAT-structured metadata of all the active FDPs in the VP Index. 
